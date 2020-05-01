@@ -6,17 +6,17 @@
     <groupId>com.iszhouhua</groupId>
     <artifactId>blog</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <name>blog</name>
     <description>My Blog</description>
 
     <developers>
         <developer>
-            <id>zhouhua</id>
-            <name>Andy Zhou</name>
-            <email>iszhouhua@163.com</email>
-            <url>https://www.iszhouhua.com</url>
+            <id>yechenhao</id>
+            <name>legna_yet</name>
+            <email>15067388403@163.com</email>
+            <url>blog.legna.com.cn</url>
         </developer>
     </developers>
 
